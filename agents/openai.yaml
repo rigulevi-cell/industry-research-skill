@@ -1,0 +1,4 @@
+interface:
+  display_name: "行业研究"
+  short_description: "开展行业研究、市场洞察、市场规模测算与进入机会判断"
+  default_prompt: "使用 $industry-research 通过交互定界开展行业研究，并在适用时评估进入机会。"
